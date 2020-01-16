@@ -1,6 +1,7 @@
 {
-  "template": "rax",
+  "template": "node",
   "view": "browser",
   "hardReloadOnChange": false,
   "infiniteLoopProtection": true
 }
+
