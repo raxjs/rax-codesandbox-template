@@ -1,7 +1,9 @@
 {
-  "template": "node",
+  "template": "rax",
   "view": "browser",
-  "hardReloadOnChange": false,
-  "infiniteLoopProtection": true
+  "hardReloadOnChange": true,
+  "infiniteLoopProtection": true,
+  "container": {
+    "port": 8080
+  }
 }
-
