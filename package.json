@@ -1,5 +1,5 @@
 {
-  "name": "rax-codesandbox-template",
+  "name": "rax",
   "author": "rax",
   "scripts": {
     "build": "build-scripts build",
